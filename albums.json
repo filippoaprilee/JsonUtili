@@ -1,0 +1,82 @@
+[
+  {
+    "albumId": 1,
+    "title": "Rock Legends",
+    "releaseDate": "2023-01-15T00:00:00Z",
+    "genre": "rock",
+    "isAvailable": true,
+    "songs": ["Song 1", "Song 2", "Song 3"]
+  },
+  {
+    "albumId": 2,
+    "title": "Pop Hits 2023",
+    "releaseDate": "2023-02-20T00:00:00Z",
+    "genre": "pop",
+    "isAvailable": true,
+    "songs": ["Hit Song 1", "Hit Song 2", "Hit Song 3"]
+  },
+  {
+    "albumId": 3,
+    "title": "Country Roads",
+    "releaseDate": "2023-03-10T00:00:00Z",
+    "genre": "country",
+    "isAvailable": true,
+    "songs": ["Country Song 1", "Country Song 2", "Country Song 3"]
+  },
+  {
+    "albumId": 4,
+    "title": "Jazz Vibes",
+    "releaseDate": "2023-04-25T00:00:00Z",
+    "genre": "jazz",
+    "isAvailable": true,
+    "songs": ["Jazz Track 1", "Jazz Track 2", "Jazz Track 3"]
+  },
+  {
+    "albumId": 5,
+    "title": "Indie Discoveries",
+    "releaseDate": "2023-05-15T00:00:00Z",
+    "genre": "indie",
+    "isAvailable": true,
+    "songs": ["Indie Song 1", "Indie Song 2", "Indie Song 3"]
+  },
+  {
+    "albumId": 6,
+    "title": "Classic Rock",
+    "releaseDate": "2023-06-05T00:00:00Z",
+    "genre": "rock",
+    "isAvailable": false,
+    "songs": ["Classic Song 1", "Classic Song 2", "Classic Song 3"]
+  },
+  {
+    "albumId": 7,
+    "title": "Electronic Beats",
+    "releaseDate": "2023-07-30T00:00:00Z",
+    "genre": "electronic",
+    "isAvailable": true,
+    "songs": ["Beat 1", "Beat 2", "Beat 3"]
+  },
+  {
+    "albumId": 8,
+    "title": "Folk Tales",
+    "releaseDate": "2023-08-20T00:00:00Z",
+    "genre": "folk",
+    "isAvailable": true,
+    "songs": ["Folk Song 1", "Folk Song 2", "Folk Song 3"]
+  },
+  {
+    "albumId": 9,
+    "title": "Soulful Sounds",
+    "releaseDate": "2023-09-15T00:00:00Z",
+    "genre": "soul",
+    "isAvailable": true,
+    "songs": ["Soul Song 1", "Soul Song 2", "Soul Song 3"]
+  },
+  {
+    "albumId": 10,
+    "title": "Reggae Rhythms",
+    "releaseDate": "2023-10-01T00:00:00Z",
+    "genre": "reggae",
+    "isAvailable": false,
+    "songs": ["Reggae Track 1", "Reggae Track 2", "Reggae Track 3"]
+  }
+]
